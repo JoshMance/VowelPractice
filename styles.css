@@ -32,6 +32,8 @@ body > .container {
 }
 
 .menuItem {
+    width: 8em;
+    height: 8em;
     display: inline-flex;
     flex-direction: column;
     width: auto;
